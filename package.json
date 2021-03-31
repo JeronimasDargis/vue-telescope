@@ -2,15 +2,17 @@
   "name": "vue-telescope",
   "version": "0.0.2",
   "description": "A vue3 directive for string truncation",
-  "main": "dist/vue-telescope.js",
-  "module": "dist/vue-telescope.esm.js",
-  "unpkg": "dist/vue-telescope.min.js",
   "license": "MIT",
+  "files": [
+    "dist/index.js"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
   "dependencies": {
     "vue": "^3.0.5"
   },
