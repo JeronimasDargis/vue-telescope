@@ -1,7 +1,9 @@
 // vite.config.js
 const path = require("path");
+import vue from "@vitejs/plugin-vue";
 
 module.exports = {
+  plugins: [vue()],
   build: {
     lib: {
       entry: path.resolve(__dirname, "lib/index.js"),

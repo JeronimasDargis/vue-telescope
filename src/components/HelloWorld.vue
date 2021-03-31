@@ -12,7 +12,7 @@
   <button @click="state.count++">count is: {{ state.count }}</button>
   <p>
     Edit
-    <code v-telescope="{ length: 12 }">components/HelloWorld.vue</code> to test
+    <code v-telescope="{ length: 10 }">components/HelloWorld.vue</code> to test
     hot module replacement.
   </p>
 </template>
