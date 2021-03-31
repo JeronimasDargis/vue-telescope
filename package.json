@@ -1,6 +1,7 @@
 {
   "name": "vue-telescope",
-  "version": "0.0.3",
+  "author": "Jeronimas Dargis",
+  "version": "0.0.4",
   "description": "A vue3 directive for string truncation",
   "license": "MIT",
   "files": [
