@@ -25,9 +25,14 @@ app.mount('#app')
 
 ```vue
 <template>
- <p v-telescope="{ length: 6 }">truncation text</p>
+ <p v-telescope="{ length: 6 }">truncated text</p>
 </template>
 ```
+
+## Output
+
+![image](https://drive.google.com/file/d/1Q_uw7_9NvFamSY-4Et0uguPaqKJ8YMHT/view?usp=sharing)
+
 ## Settings
 
 ```
