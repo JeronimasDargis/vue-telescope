@@ -31,7 +31,7 @@ app.mount('#app')
 
 ## Output
 
-![image](https://drive.google.com/file/d/1Q_uw7_9NvFamSY-4Et0uguPaqKJ8YMHT/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1Q_uw7_9NvFamSY-4Et0uguPaqKJ8YMHT)
 
 ## Settings
 
