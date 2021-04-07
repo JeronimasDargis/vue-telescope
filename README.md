@@ -28,6 +28,13 @@ app.mount('#app')
  <p v-telescope="{ length: 12 }">truncated text</p>
 </template>
 ```
+Or use dynamic values to pass length
+```vue
+<template>
+  <button @click="state.textLength++">truncated text length is: {{ state.textLength }}</button>
+  <p v-telescope="{ length: state.textLength }">truncated text</p>
+</template>
+```
 
 ## Output
 
